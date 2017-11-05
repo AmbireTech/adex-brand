@@ -1,5 +1,7 @@
 # adex-brand
 
+![The Logo](/logos/adex-logo-w-txt.png)
+
 This repository contains all the branding materials of AdEx Network.
 
 This may include, but is not limited to:
