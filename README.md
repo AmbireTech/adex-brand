@@ -13,4 +13,4 @@ This may include, but is not limited to:
 
 ## Telegram stickers
 
-You can add the Telegram stickers from here: [tg://addstickers?set=AdExStickers](tg://addstickers?set=AdExStickers)
+You can add the Telegram stickers from here: https://t.me/addstickers/AdExStickers 
