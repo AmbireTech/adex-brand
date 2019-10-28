@@ -11,3 +11,6 @@ This may include, but is not limited to:
 * Promotional materials
 
 
+## Telegram stickers
+
+You can add the Telegram stickers from here: tg://addstickers?set=AdExStickers
