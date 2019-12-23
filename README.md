@@ -10,6 +10,10 @@ This may include, but is not limited to:
 * Image materials used for the website
 * Promotional materials
 
+## Logo font
+
+The logo text is written in Open Sans.
+
 
 ## Telegram stickers
 
