@@ -1,0 +1,20 @@
+{
+  "name": "adex-brand",
+  "version": "1.0.0",
+  "description": "AdEx Brand materials, such as logos and typography",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh+git://git@github.com/AdExNetwork/adex-brand"
+  },
+  "keywords": [
+    "AdEx",
+    "brand",
+    "advertising"
+  ],
+  "author": "AdEx Network",
+  "license": "MIT"
+}
