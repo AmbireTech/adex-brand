@@ -1,6 +1,6 @@
 **Links to Canva templates:**
 
-<img src="/How%20to%20manage%20several%20accounts2.png"
+<img src="/artwork/featured%20image%20templates/How%20to%20manage%20several%20accounts2.png"
      alt="How to manage several accounts"
      style="float: left; margin-right: 10px; width: 200px" />
 ![preview](/How%20to%20manage%20several%20accounts2.png)
