@@ -2,7 +2,7 @@
 
 <img src="/artwork/featured%20image%20templates/How%20to%20manage%20several%20accounts2.png"
      alt="How to manage several accounts"
-     style="float: left; margin-right: 10px; max-width: 200px;" />
+     style="float: left; margin-right: 10px; width: 200px;!important" />
 
 [How to manage multiple accounts - platform template blue with cutout subject](https://www.canva.com/design/DAEH9e2OaII/share/preview?token=XkznY3NGXDPH4W6eaOPTvw&role=EDITOR&utm_content=DAEH9e2OaII&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
