@@ -12,6 +12,12 @@
 
 ---
 
+<a href="#"><img src="/artwork/featured%20image%20templates/Etherscan%20campaign.png" width="200"></a>
+
+[Staking roadmap - Green template](https://www.canva.com/design/DAEOVd9OVLY/w_tT7dNBkJWUEejDTlVuLw/view?utm_content=DAEOVd9OVLY&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+
+---
+
 <a href="#"><img src="/artwork/featured%20image%20templates/Promotions-template.png" width="200"></a>
 
 [Promotions template](https://www.canva.com/design/DAEOVcvWlQ4/Kn4Ec9xp2asrrSsBgmPzxA/view?utm_content=DAEOVcvWlQ4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
