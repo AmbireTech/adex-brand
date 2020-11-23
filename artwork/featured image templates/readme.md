@@ -12,30 +12,24 @@
 
 ---
 
-<br/><br/>
-<br/><br/>
-
-
-**<h2>Coming soon:</h2>**
-
 <a href="#"><img src="/artwork/featured%20image%20templates/Promotions-template.png" width="200"></a>
 
-[Promotions template](#)
+[Promotions template](https://www.canva.com/design/DAEOVcvWlQ4/Kn4Ec9xp2asrrSsBgmPzxA/view?utm_content=DAEOVcvWlQ4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 ---
 
 <a href="#"><img src="/artwork/featured%20image%20templates/Tutorials-template.png" width="200"></a>
 
-[Tutorials template](#)
+[Tutorials template](https://www.canva.com/design/DAEOVflMcVI/MCCNt6RPR-bXHzZfY7cuzA/view?utm_content=DAEOVflMcVI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 ---
 
 <a href="#"><img src="/artwork/featured%20image%20templates/case-study.png" width="200"></a>
 
-[Casestudy template](#)
+[Casestudy template](https://www.canva.com/design/DAEOVX2Qf2o/ql_YN6cFl45voNhBPJJTYg/view?utm_content=DAEOVX2Qf2o&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 ---
 
 <a href="#"><img src="/artwork/featured%20image%20templates/Partnerships.png" width="200"></a>
 
-[Partnerships template](#)
+[Partnerships template](https://www.canva.com/design/DAEOVeimo4w/QvVeGDD3aT2crve3mlGBUg/view?utm_content=DAEOVeimo4w&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
