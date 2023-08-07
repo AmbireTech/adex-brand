@@ -1,5 +1,3 @@
-## DEPRECATED
+### AdEx branding
 
-### AdEx rebranded to Ambire
-
-See https://github.com/AmbireTech/ambire-brand
+Here you can find the AdEx brand logo in its all official versions.
